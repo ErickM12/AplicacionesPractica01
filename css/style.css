@@ -2,3 +2,7 @@
     margin: 2px;
     background-color: aqua;
 }
+.text-success {
+    font-size: 14px;
+    color: forestgreen;
+}
